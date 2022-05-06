@@ -20,3 +20,6 @@
 ## 🔗 Links
 * [Uptime status](https://minhh2792.github.io/uptime)
 * [MineVN Discord](http://minevn.net/discord)
+
+
+> based on a template yes don't judge me
