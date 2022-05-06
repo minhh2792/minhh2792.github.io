@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 👋 About me
+* I'm minhh2792 (sometime i use CursedKiwi)
+* Occupation: Student
+* Location: Hanoi, Vietnam
 
-You can use the [editor on GitHub](https://github.com/minhh2792/minhh2792.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 📚 Works
+* Admin at [MineVN Network](http://minevn.net)
+* Trial Admin at [3FMC Network](https://3fmc.com)
+* Manager of [MinecraftVN Forum](https://minecraftvn.net)
+* My Pufferfish fork [Pearl](https://github.com/Pearl-Project/Pearl)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ☎️ Contact
+* [Facebook](https://fb.com/minhh2792)
+* [Twitter](https://twitter.com/minhh2792)
+* Discord: CursedKiwi#5916 (ID: `541245686478536726`)
+* Email: minhh2792.work@gmail.com
 
-### Markdown
+> I mainly active on Discord and Facebook
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minhh2792/minhh2792.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 🔗 Links
+* [Uptime status](https://minhh2792.github.io/uptime)
+* [MineVN Discord](http://minevn.net/discord)
