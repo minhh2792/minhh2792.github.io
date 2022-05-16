@@ -8,6 +8,7 @@
 * Trial Admin at [3FMC Network](https://3fmc.com)
 * Manager of [MinecraftVN Forum](https://minecraftvn.net)
 * My Pufferfish fork [Pearl](https://github.com/Pearl-Project/Pearl)
+* Minecraft Optimization Guide (Vietnam) [mcvn-optimization-guide](https://minhh2792.is-a.dev/mcvn-optimization-guide)
 
 ## ☎️ Contact
 * [Facebook](https://fb.com/minhh2792)
